@@ -1,0 +1,10 @@
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\bin\Debug\IT207N_Week10PizzaSystem.exe.config
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\bin\Debug\IT207N_Week10PizzaSystem.exe
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\bin\Debug\IT207N_Week10PizzaSystem.pdb
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\obj\Debug\IT207N_Week10PizzaSystem.csprojAssemblyReference.cache
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\obj\Debug\IT207N_Week10PizzaSystem.Form1.resources
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\obj\Debug\IT207N_Week10PizzaSystem.Properties.Resources.resources
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\obj\Debug\IT207N_Week10PizzaSystem.csproj.GenerateResource.cache
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\obj\Debug\IT207N_Week10PizzaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\obj\Debug\IT207N_Week10PizzaSystem.exe
+C:\Users\Grace\source\repos\IT207N_Week10PizzaSystem\obj\Debug\IT207N_Week10PizzaSystem.pdb
